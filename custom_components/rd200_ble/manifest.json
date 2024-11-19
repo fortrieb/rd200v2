@@ -28,6 +28,9 @@
     },
     {
       "local_name": "FR:I*"
+    },
+    {
+      "local_name": "FR:PE*"
     }
   ],
   "codeowners": ["@jdeath"],
